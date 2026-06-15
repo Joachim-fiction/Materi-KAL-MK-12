@@ -1,12 +1,12 @@
-# Proyek Komputasi Aljabar Linier Interaktif: SVD Eigenface & Animasi Transformasi Geometri
+# Proyek Komputasi Aljabar Linier Interaktif: SVD & Eigenface
 
-Repositori ini berisi dokumentasi dan implementasi kode program interaktif untuk dua topik utama dalam praktikum Aljabar Linier: Rekognisi Wajah Berbasis **Singular Value Decomposition (SVD)** dan Animasi Interaktif **Transformasi Geometri (Refleksi)**.
+Repositori ini berisi dokumentasi dan implementasi kode program interaktif untuk topik utama dalam praktikum Aljabar Linier: Rekognisi Wajah Berbasis **Singular Value Decomposition (SVD)**.
 
 ---
 
 ## 🔗 Link Akses Google Colab
 Seluruh program di bawah ini dapat dijalankan secara interaktif dengan antarmuka berbasis *GUI Form Fields* melalui tautan berikut:
-👉 **[Notebook Google Colab - Proyek Aljabar Linier Interaktif](https://colab.research.google.com/drive/1_1hXeEx-2mbcqy2w4lCcM62-dSDkb1eL?usp=sharing)**
+👉 **[Notebook Google Colab - Proyek Aljabar Linier](https://colab.research.google.com/drive/1_1hXeEx-2mbcqy2w4lCcM62-dSDkb1eL?usp=sharing)**
 
 ---
 
